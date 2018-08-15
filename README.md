@@ -6,7 +6,7 @@ Authors: Kelly Caylor (caylor@ucsb.edu) and Natasha Krell (nkrell@ucsb.edu)
 
 ## Getting Started
 
-To get started with the excercise, click here: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ecohydro/RidgeToReef.git/master)
+To get started with the excercise, click here: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ecohydro/RidgeToReef.git/master?filepath=RidgeToReef.ipynb)
 
 
 ## About this Repo
