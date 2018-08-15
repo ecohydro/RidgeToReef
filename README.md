@@ -1,4 +1,6 @@
 # RidgeToReef
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ecohydro/RidgeToReef.git/master)
+
 Jupyter notebooks for a binder demo in the Ridge to Reef program, August 2018
 
 Authors: Kelly Caylor (caylor@ucsb.edu) and Natasha Krell (nkrell@ucsb.edu)
