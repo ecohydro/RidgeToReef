@@ -26,11 +26,11 @@ Configuration files are stored in the `binder/` folder of this repository. The `
 
 ### data/
 
-The 'data/' folder contains all the necessary data files that are used in this excercise. These data were collected as part of the NSF projects acknowledged below, and any use outside of this excercise requires permission of the authors (cf. contact information above).
+The `data/` folder contains all the necessary data files that are used in this excercise. These data were collected as part of the NSF projects acknowledged below, and any use outside of this excercise requires permission of the authors (cf. contact information above).
 
 ### assets/
 
-Any images, files, or other resources used in the notebooks are contained in the 'assets/' folder. 
+Any images, files, or other resources used in the notebooks are contained in the `assets/` folder. 
 
 # Acknowledgements & Disclaimer
 
