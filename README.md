@@ -15,7 +15,7 @@ This repository is a set of jupyter notebooks, data, and accompanying configurat
 
 The following information is for authors of the module or others who wish to fork this repo and/or use it as the basis of their own efforts (but please see the Acknowledgements and Disclaimer below). 
 
-** Students or anyone else wishing to simply _access_ the module can stop reading now and just use the ![Binder](https://mybinder.org/badge.svg) link above to start the module in their browser.**
+**Students or anyone else wishing to simply _access_ the module can stop reading now and just use the ![Binder](https://mybinder.org/badge.svg) link above to start the module in their browser.**
 
 
 Our analyses are built on the [Anaconda](https://www.anaconda.com/distribution/) python distribution, using [Python v.3.6](https://www.python.org/downloads/release/python-360/). 
