@@ -4,7 +4,7 @@ channels:
   - anaconda
   - conda-forge
 dependencies:
-  - numpy==1.15.1
+  - numpy-base==1.15.0
   - bokeh==0.13.0
   - pip:
     - matplotlib==2.2.3
