@@ -2,7 +2,7 @@ name: RidgeToReef
 channels:
   - defaults
 dependencies:
-  - numpy=1.15.0
+  - numpy=1.15.1
   - bokeh=0.13.0
   - pip:
     - matplotlib==2.2.3
