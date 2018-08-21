@@ -1,7 +1,6 @@
 name: RidgeToReef
 channels:
   - defaults
-  - anaconda
   - conda-forge
 dependencies:
   - numpy-base==1.15.0
