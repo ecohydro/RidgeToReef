@@ -6,7 +6,7 @@ Authors: Kelly Caylor (caylor@ucsb.edu) and Natasha Krell (nkrell@ucsb.edu)
 
 ## Getting Started
 
-To get started with the excercise, click here: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ecohydro/RidgeToReef.git/master?urlpath=lab%2Ftree%2Findex.ipynb)
+To get started with the excercise, click here: [[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ecohydro/RidgeToReef/master?filepath=index.ipynb)
 
 
 ## About this Repo
@@ -15,7 +15,7 @@ This repository is a set of jupyter notebooks, data, and accompanying configurat
 
 The following information is for authors of the module or others who wish to fork this repo and/or use it as the basis of their own efforts (but please see the Acknowledgements and Disclaimer below). 
 
-**Students or anyone else wishing to simply _access_ the module can stop reading now and just use the [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ecohydro/RidgeToReef.git/master?urlpath=lab%2Ftree%2Findex.ipynb) link to start the module in their browser.**
+**Students or anyone else wishing to simply _access_ the module can stop reading now and just use the [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ecohydro/RidgeToReef/master?filepath=index.ipynb) link to start the module in their browser.**
 
 
 Our analyses are built on the [Anaconda](https://www.anaconda.com/distribution/) python distribution, using [Python v.3.6](https://www.python.org/downloads/release/python-360/). 
