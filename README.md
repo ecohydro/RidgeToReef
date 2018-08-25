@@ -8,6 +8,14 @@ Authors: Kelly Caylor (caylor@ucsb.edu) and Natasha Krell (nkrell@ucsb.edu)
 
 To get started with the excercise, click here: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ecohydro/RidgeToReef/master?filepath=index.ipynb)
 
+## About this Repo
+
+This repository is a set of jupyter notebooks, data, and accompanying configuration files designed to be used with the [binder](mybinder.org) system. Through Binder, these notebooks provide an executable environment, making the code immediately reproducible by anyone, anywhere.
+
+The following information is for authors of the module or others who wish to fork this repo and/or use it as the basis of their own efforts (but please see the Acknowledgements and Disclaimer below). 
+
+**Students or anyone else wishing to simply _access_ the module can stop reading now and just use the [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ecohydro/RidgeToReef/master?filepath=index.ipynb) link to start the module in their browser.**
+
 
 ## Installing this Repo locally
 
@@ -25,7 +33,7 @@ The `conda` command is installed as part of the Anaconda python distribution and
 > conda install -n RidgeToReef python=3.6
 ``` 
 
-_Note: The next step assumes you already have a working installation of `git` on your machine. If you don't you need to [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). As with installing `Anaconda`, instructions vary based on your OS. But it's all pretty painless._
+_Note: The next step assumes you already have a working installation of `git` on your machine. If you don't, you will need to [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). As with installing `Anaconda`, instructions vary based on your OS. But it's all pretty painless._
 
 3. **Clone the `RidgeToReef` github repository to your local machine.**
 
@@ -69,16 +77,7 @@ This should launch the `index.ipynb` in your local browser. Changes you make to 
 
 Enjoy!
 
-
-
-## About this Repo
-
-This repository is a set of jupyter notebooks, data, and accompanying configuration files designed to be used with the [binder](mybinder.org) system. Through Binder, these notebooks provide an executable environment, making the code immediately reproducible by anyone, anywhere.
-
-The following information is for authors of the module or others who wish to fork this repo and/or use it as the basis of their own efforts (but please see the Acknowledgements and Disclaimer below). 
-
-**Students or anyone else wishing to simply _access_ the module can stop reading now and just use the [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ecohydro/RidgeToReef/master?filepath=index.ipynb) link to start the module in their browser.**
-
+## Additional Details
 
 Our analyses are built on the [Anaconda](https://www.anaconda.com/distribution/) python distribution, using [Python v.3.6](https://www.python.org/downloads/release/python-360/). 
 
