@@ -13,11 +13,11 @@ To get started with the excercise, click here: [![Binder](https://mybinder.org/b
 
 While this repositorty is `binder-ready`, meaning it can be run in the cloud using `binder.org`'s awesome service, it is also possible to use the repository in a more traditional way - using `jupyter` on your personal laptop or PC. While a complete description of the steps to install this repo locally is beyond the scope of this module, we are providing the steps necessary, and links to resources where you can get details on each step.
 
-1. ###Install `Anaconda`'s most recent distribution of python###. 
+1. **Install `Anaconda`'s most recent distribution of python.** 
 
 The most recent distribution of `Anaconda` can be found [here](https://www.anaconda.com/download). The specific steps for installing `Anaconda` will vary depending on your operating system, but the installers all have easy to follow installation instructions.
 
-2. ###Use the `conda` command to create a new python environment named `RidgeToReef`###. 
+2. **Use the `conda` command to create a new python environment named `RidgeToReef`.** 
 
 The `conda` command is installed as part of the Anaconda python distribution and a quick introduction to `conda` is [here](https://conda.io/docs/user-guide/getting-started.html). For most installations, you will need to open a shell terminal and type the following command:
 
@@ -27,7 +27,7 @@ The `conda` command is installed as part of the Anaconda python distribution and
 
 _This next step assume you already have a working installation of `git` on your machine. If you don't you need to [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). As with installing `Anaconda`, instructions vary based on your OS. But it's all pretty painless._
 
-3. ###Clone the `RidgeToReef` github repository to your local machine.###
+3. **Clone the `RidgeToReef` github repository to your local machine.**
 
  This is done by using the `git clone` command:
 
@@ -41,7 +41,7 @@ After successfully cloning the repo to your local machine, you should change dir
 > cd RidgeToReef
 ```
 
-4. ###Update the `RidgeToReef` environment.### 
+4. **Update the `RidgeToReef` environment.**
 
 The conda command uses a special file called `environment.yml` to resolve any necessary dependencies that are required to run the `jupyter` notebooks contained in this repository. We've placed that file in the `binder` folder, which is a special folder used by the `binder.org` service when setting up the cloud version of this repository. However, that same file can be used to configure your local `python` environment (yay!). We can gather and install the required files using the following command:
 
@@ -51,13 +51,13 @@ The conda command uses a special file called `environment.yml` to resolve any ne
 
 _Note: The above command will only work if the `RidgeToReef` environment is not active. Use `conda deactivate` to deactivate your environment._
 
-5. ###Activate the `RidgeToReef` conda environment.###
+5. **Activate the `RidgeToReef` conda environment.**
 
 ```shell
 > conda activate RidgeToReef
 ``` 
 
-6. ###Start the `jupyter` notebook server.###  
+6. **Start the `jupyter` notebook server.**  
 
 At this point, you are all set to run the jupyter notebooks locally in your web browser. You can start the webserver an open the `index.ipynb` notebook using the following command:
 
