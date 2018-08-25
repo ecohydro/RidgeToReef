@@ -25,7 +25,7 @@ The `conda` command is installed as part of the Anaconda python distribution and
 > conda install -n RidgeToReef python=3.6
 ``` 
 
-_This next step assume you already have a working installation of `git` on your machine. If you don't you need to [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). As with installing `Anaconda`, instructions vary based on your OS. But it's all pretty painless._
+_Note: The next step assumes you already have a working installation of `git` on your machine. If you don't you need to [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). As with installing `Anaconda`, instructions vary based on your OS. But it's all pretty painless._
 
 3. **Clone the `RidgeToReef` github repository to your local machine.**
 
