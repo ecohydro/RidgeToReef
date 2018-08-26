@@ -30,7 +30,7 @@ The most recent distribution of `Anaconda` can be found [here](https://www.anaco
 The `conda` command is installed as part of the Anaconda python distribution and a quick introduction to `conda` is [here](https://conda.io/docs/user-guide/getting-started.html). For most installations, you will need to open a shell terminal and type the following command:
 
 ```shell
-> conda install -n RidgeToReef python=3.6
+> conda create -n RidgeToReef python=3.6
 ``` 
 
 _Note: The next step assumes you already have a working installation of `git` on your machine. If you don't, you will need to [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). As with installing `Anaconda`, instructions vary based on your OS. But it's all pretty painless._
